@@ -1,0 +1,17 @@
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+#date {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+addTaskButton {
+    background-color: rgb(58, 0, 128);
+    color: rgb(16, 211, 29);
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
